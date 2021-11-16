@@ -26,12 +26,3 @@ public class EEAlgorithmus {
     }
 
 }
-
-
-    /*
-       1. DivErgebnis = Zahl / Modulo
-       2. Rest = Zahl -  Modulo * DivErgebnis
-       Rest != 0?
-       Zahl = Modulo
-       Modulo = DivErgebnis
-    */
